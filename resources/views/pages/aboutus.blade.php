@@ -99,8 +99,9 @@
 <ul class="about-me">
         <h1>ABOUT ME</h1>
 <li>Mani sauc Liene.</li>
-<li>Man nepatīk par sevi stāstīt :)</li>
-<li>Pirmo reizi veidoju mājaslapu - bija interesanti!</li>
+<li>Strādāju par grafisko dizaineri.</li>
+<li>Pirmo reizi veidoju mājaslapu - bija interesanti :)</li>
+<li>Neesmu vēl pavisam atmetusi ideju par sava e-veikala izveidi.</li>
 <li> Paldies!<li>
 </ul>
     </div></div></div>
